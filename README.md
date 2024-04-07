@@ -1,5 +1,11 @@
 ![Image](/CursivePriyash.png)
 
+<h1 align="center">Hey there!👋</h1>
+
+<p align="center">👨‍💻 I'm Priyash Sharma, a passionate React developer 🚀 with a love for crafting sleek UIs and solving complex problems. 💡 When I'm not diving into the world of React, you'll often find me exploring the realms of Data Structures and Algorithms 📊, seeking elegant solutions to intricate puzzles.
+
+🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/priyash-sharma-76662b22b/) to explore opportunities and share insights!
+
 <!--
 **PriyAsh-24/PriyAsh-24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
