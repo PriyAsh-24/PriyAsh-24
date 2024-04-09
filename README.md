@@ -1,4 +1,4 @@
-![Image](/CursivePriyash.png)
+![Image](/Priyash%20cursive.png)
 
 <h1 align="center">Hey there!👋</h1>
 
