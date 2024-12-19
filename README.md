@@ -1,6 +1,5 @@
 ![Image](/Priyash%20cursive.png)
 
-<h1 align="center">Hey there!👋</h1>
 
 # 👋 Hello, World! I'm **Priyash Sharma**!  
 💻 Passionate about **Software Development**, and **Problem-Solving**.  
