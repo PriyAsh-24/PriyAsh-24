@@ -2,9 +2,13 @@
 
 <h1 align="center">Hey there!👋</h1>
 
-<p align="center">👨‍💻 I'm Priyash Sharma, a passionate React developer 🚀 with a love for crafting sleek UIs and solving complex problems. 💡 When I'm not diving into the world of React, you'll often find me exploring the realms of Data Structures and Algorithms 📊, seeking elegant solutions to intricate puzzles.
+# 👋 Hello, World! I'm **Priyash Sharma**!  
+💻 Passionate about **Software Development**, and **Problem-Solving**.  
+🌱 Currently honing my skills in **NodeJs**, **DSA**, and **Frontend Development**.  
+🚀 Creator of projects like **Lilliput (URL Shortener)**, **Movie Search App**, and **CodeIDE**.  
+✨ Always up for a challenge and love to build things that make an impact!  
+📫 Let's connect and collaborate: [LinkedIn](https://www.linkedin.com/in/priyash24/)
 
-🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/priyash-sharma-76662b22b/) to explore opportunities and share insights!
 
 <!--
 **PriyAsh-24/PriyAsh-24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
