@@ -3,8 +3,8 @@
 
 # 👋 Hello, World! I'm **Priyash Sharma**!  
 💻 Passionate about **Software Development**, and **Problem-Solving**.  
-🌱 Currently honing my skills in **NodeJs**, **DSA**, and **Frontend Development**.  
-🚀 Creator of projects like **Lilliput (URL Shortener)**, **Movie Search App**, and **CodeIDE**.  
+🌱 Currently honing my skills in **NodeJs**, **DSA**, and **DotNet Core**.  
+🚀 Creator of projects like **Lilliput (URL Shortener)**, **Garbage Manager**, and **CodeIDE**.  
 ✨ Always up for a challenge and love to build things that make an impact!  
 📫 Let's connect and collaborate: [LinkedIn](https://www.linkedin.com/in/priyash24/)
 
