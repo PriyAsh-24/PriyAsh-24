@@ -1,25 +1,23 @@
 ![Image](/Priyash%20cursive.png)
 
+# 👋 Hi, I'm **Priyash Sharma**
 
-# 👋 Hello, World! I'm **Priyash Sharma**!  
-💻 Passionate about **Software Development**, and **Problem-Solving**.  
-🌱 Currently honing my skills in **NodeJs**, **DSA**, and **DotNet Core**.  
-🚀 Creator of projects like **Lilliput (URL Shortener)**, **Garbage Manager**, and **CodeIDE**.  
-✨ Always up for a challenge and love to build things that make an impact!  
-📫 Let's connect and collaborate: [LinkedIn](https://www.linkedin.com/in/priyash24/)
+🚀 **Backend Developer | Golang & gRPC | Problem Solver**
 
+I build **scalable backend services** and **clean APIs** with a focus on **Golang, gRPC, and system reliability**.  
+Experienced with **microservices**, **REST/SOAP integrations**, and **production systems**.
 
-<!--
-**PriyAsh-24/PriyAsh-24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🛠 Tech
+**Go, gRPC, Node.js, ASP.NET Core, React, MongoDB, MySQL, Docker, Git**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 Problem Solving
+**300+ DSA problems solved | LeetCode 1667+ (Top 15%)**
+
+### 💼 Experience
+**Software Developer @ Amdocs** — Working on Golang & gRPC services
+
+---
+
+📫 **LinkedIn**: https://www.linkedin.com/in/priyash24/
